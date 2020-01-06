@@ -1,6 +1,8 @@
 package com.voyager.movielist.apiService;
 
-import com.voyager.architecturecomponents.appConfig.AppConfig;
+
+
+import com.voyager.movielist.appConfig.AppConfig;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

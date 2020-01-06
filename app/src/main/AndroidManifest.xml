@@ -12,8 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.TestMovieList.MProfileActivity"
-            android:parentActivityName=".activity.TestMovieList.MovieActivity"/>
+        <activity android:name=".activity.MProfileActivity"
+            android:parentActivityName=".activity.MovieActivity"/>
         <activity android:name=".activity.MovieActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
